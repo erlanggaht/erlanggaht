@@ -22,3 +22,8 @@ to run or want to try my project please use the code below or look at package.js
    - npm run develop // gatsby project
 ```
 
+## View All My Projects In Detail
+
+  [https://erlanggaht.vercel.app/projects](https://erlanggaht.vercel.app/projects)
+
+
