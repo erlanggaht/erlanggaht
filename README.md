@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**erlanggaht/erlanggaht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Erlanggaht!
 
-Here are some ideas to get you started:
+currently i am open for any opportunity especially in IT field as web developer and mobile developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+
+**Client:** React, Vue, Next, Nuxt, Redux, TailwindCSS, DaisyUI
+
+**Server:** Node, Express, NestJs
+
+**Mobile:** React Native
+
+
+## Deployment
+
+to run or want to try my project please use the code below or look at package.json
+
+```bash
+   - npm run dev // react,vue, other
+   - npm run develop // gatsby project
+```
+
