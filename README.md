@@ -12,16 +12,6 @@ currently i am open for any opportunity especially in IT field as web developer 
 
 **Mobile:** React Native
 
-
-## Deployment
-
-to run or want to try my project please use the code below or look at package.json
-
-```bash
-   - npm run dev // react,vue, other
-   - npm run develop // gatsby project
-```
-
 ## View All My Projects In Detail
 
   [https://erlanggaht.vercel.app/projects](https://erlanggaht.vercel.app/projects)
