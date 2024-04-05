@@ -1,14 +1,13 @@
 
 # Hi there 👋, I'm Erlanggaht!
 
-currently i am open for any opportunity especially in IT field as web developer and mobile developer
-
+software developer
 
 ## Tech Stack
 
-**Client:** React, Vue, Next, Nuxt, Redux, TailwindCSS, DaisyUI
+**Client:** React, Vue, Next, Nuxt, Redux, TailwindCSS, DaisyUI, NextUI
 
-**Server:** Node, Express, NestJs
+**Server:** Nodejs, Express, NestJs
 
 **Mobile:** React Native
 
