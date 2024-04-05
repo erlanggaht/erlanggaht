@@ -9,6 +9,10 @@ software developer
 
 **Server:** Nodejs, Express, NestJs
 
+**WEBRTC:** BigBlueButton, Jitsi Meet
+
+**DevOps:** CI/CD
+
 **Mobile:** React Native
 
 ## Repository Serious
