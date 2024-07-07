@@ -5,7 +5,7 @@ software developer
 
 ## Tech Stack
 
-**Client:** React, Vue, Next, Nuxt, Redux, TailwindCSS, DaisyUI, NextUI
+**Client:** React, Angular, Vue, Next, Nuxt, Redux, TailwindCSS,
 
 **Server:** Nodejs, Express, NestJs
 
