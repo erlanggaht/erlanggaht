@@ -11,7 +11,7 @@ software developer
 
 **WEBRTC:** BigBlueButton, Jitsi Meet
 
-**DevOps:** CI/CD
+**DevOps:** CI/CD, Jenkins
 
 **Mobile:** React Native
 
